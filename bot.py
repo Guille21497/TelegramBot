@@ -198,7 +198,7 @@ def set_referral_url(url):
 
 
 def short_url(url):
-    s = pyshorteners.Shortener(api_key='fde5d71c4f28a24ad80f463e45156bc8a63f87ae')
+    s = pyshorteners.Shortener(api_key='xxxxx')
     shorturl = s.bitly.short(url)
     return shorturl
 
