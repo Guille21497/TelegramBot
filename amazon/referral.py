@@ -37,7 +37,7 @@ def clear_url(url, domain):
 
 
 def set_referral_url(url):
-    referral = "7760-21"
+    referral = "guille21497-21"
     extra = "%26language=es_ES&keywords="
     url = "https://" + url + "?tag=" + referral + extra
     return url
