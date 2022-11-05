@@ -1,5 +1,8 @@
-python-telegram-bot
+python-telegram-bot==12.7
 bs4
 requests
 setuptools
 pyshorteners
+validators
+regex==2022.9.13
+urlextract
